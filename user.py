@@ -51,6 +51,6 @@ bruce.make_withdrawal(250)
 bruce.user_account_balance()
 
 print(                )
-jeff.transfer_money(500,bruce)
+jeff.transfer_money(500,eric)
 
 
